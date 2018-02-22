@@ -8,9 +8,9 @@ En estos enlaces encontraremos script para realizar copias de seguridad de nuest
 [Powershell](https://github.com/raframmed/backup-s/blob/master/script/backup.ps1)  
   
 En ambos scrip deben ser usados desde la terminal del sistema operativo al que pertenezcan.  
-###Sintaxis  
-#####Bash  
+### Sintaxis  
+##### Bash  
 bash ./backup.sh @nombre_usuario @ruta_dest  
-#####Powershell  
+##### Powershell  
 ./backup.ps1 @nombre_usuario @ruta_dest
 `
