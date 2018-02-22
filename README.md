@@ -10,7 +10,7 @@ En estos enlaces encontraremos script para realizar copias de seguridad de nuest
 En ambos scrip deben ser usados desde la terminal del sistema operativo al que pertenezcan.  
 ### Sintaxis  
 ##### Bash  
-bash ./backup.sh @nombre_usuario @ruta_dest  
+`bash ./backup.sh @nombre_usuario @ruta_dest`  
 ##### Powershell  
-./backup.ps1 @nombre_usuario @ruta_dest
-`
+`./backup.ps1 @nombre_usuario @ruta_dest`
+
